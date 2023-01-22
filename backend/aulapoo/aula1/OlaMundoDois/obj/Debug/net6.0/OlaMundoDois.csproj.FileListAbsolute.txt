@@ -1,0 +1,15 @@
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\bin\Debug\net6.0\OlaMundoDois.exe
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\bin\Debug\net6.0\OlaMundoDois.deps.json
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\bin\Debug\net6.0\OlaMundoDois.runtimeconfig.json
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\bin\Debug\net6.0\OlaMundoDois.dll
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\bin\Debug\net6.0\OlaMundoDois.pdb
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\obj\Debug\net6.0\OlaMundoDois.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\obj\Debug\net6.0\OlaMundoDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\obj\Debug\net6.0\OlaMundoDois.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\obj\Debug\net6.0\OlaMundoDois.AssemblyInfo.cs
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\obj\Debug\net6.0\OlaMundoDois.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\obj\Debug\net6.0\OlaMundoDois.dll
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\obj\Debug\net6.0\refint\OlaMundoDois.dll
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\obj\Debug\net6.0\OlaMundoDois.pdb
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\obj\Debug\net6.0\OlaMundoDois.genruntimeconfig.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\OlaMundoDois\obj\Debug\net6.0\ref\OlaMundoDois.dll

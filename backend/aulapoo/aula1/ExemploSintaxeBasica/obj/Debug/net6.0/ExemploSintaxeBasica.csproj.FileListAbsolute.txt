@@ -1,0 +1,15 @@
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\bin\Debug\net6.0\ExemploSintaxeBasica.exe
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\bin\Debug\net6.0\ExemploSintaxeBasica.deps.json
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\bin\Debug\net6.0\ExemploSintaxeBasica.runtimeconfig.json
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\bin\Debug\net6.0\ExemploSintaxeBasica.dll
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\bin\Debug\net6.0\ExemploSintaxeBasica.pdb
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\obj\Debug\net6.0\ExemploSintaxeBasica.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\obj\Debug\net6.0\ExemploSintaxeBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\obj\Debug\net6.0\ExemploSintaxeBasica.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\obj\Debug\net6.0\ExemploSintaxeBasica.AssemblyInfo.cs
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\obj\Debug\net6.0\ExemploSintaxeBasica.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\obj\Debug\net6.0\ExemploSintaxeBasica.dll
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\obj\Debug\net6.0\refint\ExemploSintaxeBasica.dll
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\obj\Debug\net6.0\ExemploSintaxeBasica.pdb
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\obj\Debug\net6.0\ExemploSintaxeBasica.genruntimeconfig.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula1\ExemploSintaxeBasica\obj\Debug\net6.0\ref\ExemploSintaxeBasica.dll

@@ -1,0 +1,15 @@
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\bin\Debug\net6.0\Arquivos.exe
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\bin\Debug\net6.0\Arquivos.deps.json
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\bin\Debug\net6.0\Arquivos.runtimeconfig.json
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\bin\Debug\net6.0\Arquivos.dll
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\bin\Debug\net6.0\Arquivos.pdb
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\obj\Debug\net6.0\Arquivos.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\obj\Debug\net6.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\obj\Debug\net6.0\Arquivos.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\obj\Debug\net6.0\Arquivos.AssemblyInfo.cs
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\obj\Debug\net6.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\obj\Debug\net6.0\Arquivos.dll
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\obj\Debug\net6.0\refint\Arquivos.dll
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\obj\Debug\net6.0\Arquivos.pdb
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\obj\Debug\net6.0\Arquivos.genruntimeconfig.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\aula2\Arquivos\obj\Debug\net6.0\ref\Arquivos.dll

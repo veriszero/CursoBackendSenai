@@ -1,0 +1,15 @@
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\bin\Debug\net6.0\OOP.exe
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\bin\Debug\net6.0\OOP.deps.json
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\bin\Debug\net6.0\OOP.dll
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\bin\Debug\net6.0\OOP.pdb
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\obj\Debug\net6.0\OOP.dll
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\obj\Debug\net6.0\refint\OOP.dll
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\obj\Debug\net6.0\OOP.pdb
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+C:\Users\super\OneDrive\Documentos\GitHub\CursoBackendSenai\backend\aulapoo\atividadePratica\OOP\obj\Debug\net6.0\ref\OOP.dll
