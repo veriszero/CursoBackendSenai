@@ -3,6 +3,22 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1>Lista de Clientes e Fornecedores</h1>
+    <h2>Lista de Clientes</h2>
+    @foreach (var item in @ViewBag.listaCliente)
+    {
+        <div>@item.Id</div>
+        <div>@item.Nome</div>
+        <div>@item.Cpf</div>
+        <div>@item.Email</div>
+        <div>@item.Paciente</div>
+    }
+    <h2>Lista de Fornecedores</h2>
+    @foreach (var item in @ViewBag.listaFornecedor)
+    {
+        <div>@item.Id</div>
+        <div>@item.Nome</div>
+        <div>@item.Cnpj</div>
+        <div>@item.Email</div>
+    }
 </div>
